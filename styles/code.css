@@ -1,0 +1,41 @@
+@import "prism-theme-vars/base.css";
+@import "codemirror-theme-vars/base.css";
+@import "prism-theme-vars/to-codemirror.css";
+
+:root {
+    --prism-font-family: var(--slidev-code-font-family);
+    --prism-block-radius: var(--ninja-radius);
+    --prism-foreground: var(--ninja-foreground);
+    --prism-background: var(--ninja-background);
+    --prism-keyword: var(--ninja-highlight-purple);
+    --prism-function: var(--ninja-success);
+    --prism-number: var(--ninja-success);
+    --prism-class: var(--ninja-success);
+    --prism-string: var(--ninja-cyan);
+    --prism-literal: var(--ninja-cyan);
+    --prism-builtin: var(--ninja-cyan);
+    --prism-comment: var(--accents-4);
+    --prism-boolean: var(--ninja-highlight-purple);
+}
+
+code,
+code * {
+    @apply select-text;
+}
+code {
+    font-family: "Fira Code", monospace;
+}
+
+:not(pre) > code {
+    color: var(--ninja-highlight-purple);
+    @apply text-sm;
+}
+:not(pre) > code:before,
+:not(pre) > code:after {
+    content: "`";
+    color: var(--ninja-highlight-purple);
+}
+
+pre {
+    border: 1px solid var(--accents-2);
+}

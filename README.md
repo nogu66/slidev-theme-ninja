@@ -46,13 +46,13 @@ The perfect way to start your presentation with impact.
 <td width="50%">
 
 **Light Mode**
-![Intro Layout Light](./example-export-light/01.png)
+![Intro Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/01.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![Intro Layout Dark](./example-export-dark/01.png)
+![Intro Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/01.png)
 
 </td>
 </tr>
@@ -88,13 +88,13 @@ Introduce yourself with style using an image and bio layout.
 <td width="50%">
 
 **Light Mode**
-![About Me Layout Light](./example-export-light/03.png)
+![About Me Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/03.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![About Me Layout Dark](./example-export-dark/03.png)
+![About Me Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/03.png)
 
 </td>
 </tr>
@@ -136,13 +136,13 @@ Present content alongside visuals with flexible positioning.
 <td width="50%">
 
 **Light Mode**
-![Text-Image Layout Light](./example-export-light/04.png)
+![Text-Image Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/04.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![Text-Image Layout Dark](./example-export-dark/04.png)
+![Text-Image Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/04.png)
 
 </td>
 </tr>
@@ -155,13 +155,13 @@ Present content alongside visuals with flexible positioning.
 <td width="50%">
 
 **Light Mode**
-![Text-Image Reverse Light](./example-export-light/05.png)
+![Text-Image Reverse Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/05.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![Text-Image Reverse Dark](./example-export-dark/05.png)
+![Text-Image Reverse Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/05.png)
 
 </td>
 </tr>
@@ -202,13 +202,13 @@ Create dramatic section breaks in your presentation.
 <td width="50%">
 
 **Light Mode**
-![New Section Layout Light](./example-export-light/07.png)
+![New Section Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/07.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![New Section Layout Dark](./example-export-dark/07.png)
+![New Section Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/07.png)
 
 </td>
 </tr>
@@ -242,13 +242,13 @@ Showcase code with beautiful syntax highlighting.
 <td width="50%">
 
 **Light Mode**
-![Code Layout Light](./example-export-light/08.png)
+![Code Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/08.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![Code Layout Dark](./example-export-dark/08.png)
+![Code Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/08.png)
 
 </td>
 </tr>
@@ -294,13 +294,13 @@ A clean, versatile layout for any content.
 <td width="50%">
 
 **Light Mode**
-![Default Layout Light](./example-export-light/02.png)
+![Default Layout Light](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-light/02.png)
 
 </td>
 <td width="50%">
 
 **Dark Mode**
-![Default Layout Dark](./example-export-dark/02.png)
+![Default Layout Dark](https://github.com/nogu66/slidev-theme-ninja/tree/main/example-export-dark/02.png)
 
 </td>
 </tr>

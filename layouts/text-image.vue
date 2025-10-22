@@ -1,4 +1,4 @@
-<template>
+`<template>
   <div class="slidev-layout h-full">
     <div
       class="grid grid-cols-2 h-full"
@@ -17,13 +17,15 @@
           bottom-4
           right-0
         />
-        <img
-          :src="String($attrs.media)"
-          class="rounded-lg shadow-lg object-cover z-10"
-        />
-        <figcaption class="mt-2 text-xs text-center">
-          {{ $attrs.caption }}
-        </figcaption>
+        <div class="flex flex-col">
+          <img
+            :src="String($attrs.media)"
+            class="rounded-lg shadow-lg object-cover z-10"
+          />
+          <figcaption class="mt-2 text-xs text-center">
+            {{ $attrs.caption }}
+          </figcaption>
+        </div>
       </figure>
     </div>
   </div>

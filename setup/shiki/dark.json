@@ -5,12 +5,12 @@
     "selection.background": "#79ffe1",
     "input.background": "#0D1217",
     "button.background": "#60A7FA",
-    "button.foreground": "#000",
+    "button.foreground": "#16181D",
     "quickInput.background": "#131A20",
 
     "editor.background": "#1B2227",
     "editor.foreground": "#ddd",
-    "activityBar.background": "#000",
+    "activityBar.background": "#16181D",
     "editorLineNumber.foreground": "#888",
     "editorLineNumber.activeForeground": "#ddd",
     "editor.selectionBackground": "#78c0b032",
@@ -30,7 +30,7 @@
     "badge.background": "#60A7FA",
     "badge.foreground": "#ddd",
     "list.activeSelectionBackground": "#60A7FA",
-    "list.activeSelectionForeground": "#000",
+    "list.activeSelectionForeground": "#16181D",
     "list.inactiveSelectionBackground": "#212C36",
     "list.hoverBackground": "#3A4248",
 

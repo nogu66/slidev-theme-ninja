@@ -34,6 +34,8 @@ html.light {
     --accents-7: #252047;
     --accents-8: #0d0b18;
     --ninja-foreground: #0d0b18;
+    --ninja-success: #0076ff;
+    --slidev-theme-primary: var(--ninja-success);
 }
 html.dark {
     --ninja-background: #0d0b18;

@@ -42,12 +42,15 @@
         "release": "standard-version"
     },
     "dependencies": {
+        "@slidev/theme-default": "^0.25.0",
         "@slidev/types": "^0.28.9",
         "codemirror-theme-vars": "^0.1.1",
         "prism-theme-vars": "^0.2.2"
     },
     "devDependencies": {
-        "@slidev/cli": "^0.28.9",
+        "@iconify-json/la": "^1.2.1",
+        "@iconify-json/logos": "^1.2.9",
+        "@slidev/cli": "^0.28.10",
         "playwright-chromium": "^1.19.2",
         "prettier": "^2.5.1",
         "standard-version": "^9.3.2",
